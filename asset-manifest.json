@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tplink/static/css/main.ca71c5bc.css",
+    "main.js": "/tplink/static/js/main.d3a9feab.js",
+    "static/js/453.8b4cf607.chunk.js": "/tplink/static/js/453.8b4cf607.chunk.js",
+    "static/media/istockphot.jpg": "/tplink/static/media/istockphot.eaf26d86e822d166a9b8.jpg",
+    "index.html": "/tplink/index.html",
+    "main.ca71c5bc.css.map": "/tplink/static/css/main.ca71c5bc.css.map",
+    "main.d3a9feab.js.map": "/tplink/static/js/main.d3a9feab.js.map",
+    "453.8b4cf607.chunk.js.map": "/tplink/static/js/453.8b4cf607.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca71c5bc.css",
+    "static/js/main.d3a9feab.js"
+  ]
+}
